@@ -1,0 +1,10 @@
+# requirements
+pandas
+numpy
+scikit-learn
+crowdai
+scipy
+dask
+jupyter
+
+
