@@ -1,6 +1,6 @@
 # IEEE Challenge solution
 
-This repository contains a solution for [IEEE Investment Ranking Challenge](https://www.crowdai.org/challenges/ieee-investment-ranking-challenge).
+This repository contains a 4th place solution for [IEEE Investment Ranking Challenge](https://www.crowdai.org/challenges/ieee-investment-ranking-challenge).
 
 ## Getting Started
 
